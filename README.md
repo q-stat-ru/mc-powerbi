@@ -1,7 +1,9 @@
 # mc-powerbi
 Репозиторий с файлами для мастер-класса по Power BI
-Web-сервис Power BI - https://app.powerbi.com
-Скачать десктопную версию (только для Windows) - https://www.microsoft.com/en-us/download/details.aspx?id=58494
+#### Web-сервис Power BI
+https://app.powerbi.com
+#### Скачать десктопную версию (только для Windows)
+https://www.microsoft.com/en-us/download/details.aspx?id=58494
 
 ## Задание 1. Создание простого отчета в веб-версии Power BI
 ### Проблема
